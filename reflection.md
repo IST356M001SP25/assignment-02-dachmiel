@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Daniel Chmielewski
+Sudent Email:  dachmiel@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to clean and parse a file based on certain criteria using strip() and split() helper functions. Strip is used for removing any whitespace from a string and split is helpful for splitting a string into a list of several strings based on what you decide to split on.
